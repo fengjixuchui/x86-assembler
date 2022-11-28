@@ -1,5 +1,9 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Intel_x86_assembler_0"></a>Intel x86 assembler</h1>
-<p class="has-line-data" data-line-start="1" data-line-end="2"><a href="mailto:the-scientist@rootstorm.com">the-scientist@rootstorm.com</a></p>
+
+- ***snowcrash***
+- https://github.com/snowcra5h/
+- sn0w.crash@icloud.com
+
 <h3 class="code-line" data-line-start=3 data-line-end=4 ><a id="syntax_3"></a>syntax:</h3>
 <p class="has-line-data" data-line-start="5" data-line-end="9">Decimal “integers begin with a non-zero digit followed by zero or more decimal digits (0–9)”<br>
 Binary “integers begin with “0b” or “0B” followed by zero or more binary digits (0, 1)”<br>
