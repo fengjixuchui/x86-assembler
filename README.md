@@ -1,8 +1,9 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Intel_x86_assembler_0"></a>Intel x86 assembler</h1>
 
-- ***snowcrash***
-- https://github.com/snowcra5h/
-- sn0w.crash@icloud.com
+> This C program reads in an assembly language file, performs two passes over the file to identify labels and assemble the instructions, and then writes the resulting machine code to an output file. It includes several helper functions for handling instructions, managing a hash table for storing labels, and writing the machine code to the output file. It also includes a function for reading lines from the input file and stripping leading white space and a main function that opens the input and output files, calls the read loop function twice, and closes the files. The program is designed to assemble x86 assembly language code and can be compiled and linked using the nasm and ld commands. It is intended to be run on a Linux system.
+
+- ***snowcrash*** ( snowcra5h@icloud.com )
+
 
 <h3 class="code-line" data-line-start=3 data-line-end=4 ><a id="syntax_3"></a>syntax:</h3>
 <p class="has-line-data" data-line-start="5" data-line-end="9">Decimal “integers begin with a non-zero digit followed by zero or more decimal digits (0–9)”<br>
